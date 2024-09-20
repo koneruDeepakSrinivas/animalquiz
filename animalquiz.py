@@ -1,3 +1,5 @@
+#this is the python project for animal quiz
+
 def check_guess(guess, answer):
     global score
     still_guessing = True
